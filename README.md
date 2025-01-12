@@ -1,19 +1,10 @@
 [![img1](https://i.imgur.com/dR5Oemq.gif)]()
 <h1 align="center">
     <b>Hi , I'm Janhvi Sharma </b>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 <h3 align="center">A Deep Learning enthusiast</h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7D549&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Object+Oriented+Programming;Diffferential+Equations;Vector+Calculus;Statistics;Chess;Data+Structures;Algorithms" alt="Typing SVG" />
-</p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janhvisharma1" alt="janhvisharma1" /></a> </p>
-
-- 🔭 I’m currently working on **Plant identifier and Disease Detecter**
-
-- 🌱 I’m currently learning **CNN, TensorFlow, OpenCV, YOLO**
 
 - 📫 How to reach me **sjanhvi14@gmail.com**
 
